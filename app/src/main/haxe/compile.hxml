@@ -1,0 +1,5 @@
+-lib heaps
+-lib hlsdl
+-main Main
+-hl ../cpp/out/main.c
+-debug
